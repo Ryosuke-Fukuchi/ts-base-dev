@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "sourceMap": true,
+    "target": "ES5",
+    "module": "commonjs",
+    "strict": true,
+    "outDir": "./build",
+    "baseUrl": "./src"
+  }
+}
